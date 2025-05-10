@@ -1,4 +1,4 @@
-# Multi-Model Image Captioning using Deep Learning
+# Multi-Model Image Captioning 
 
 This project implements and compares multiple deep learning models for automatic image caption generation. The approach combines a pre-trained **ResNet152V2** CNN as a feature extractor and various decoders (LSTM, GRU, BART, GPT-2) to generate detailed captions for images. We evaluate the performance of these models using **BLEU** score and provide an interactive **Flask** web application for real-time image captioning.
 
